@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+
+.userCard{
+    border: 3px solid blueviolet;
+
+}
+.userCard :hover{
+    border: 3px solid yellowgreen;
+}
